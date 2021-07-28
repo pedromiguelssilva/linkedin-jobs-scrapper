@@ -1,5 +1,5 @@
 # Linkedin Jobs Scrapper
-Crawl Linkedin Jobs tab to scrape for all Data Scientist jobs in Lisbon, and store them into a dataframe, including information regarding qualifications, number of applicants and full job description.
+Crawl Linkedin Jobs tab to scrape for all Data Scientist jobs in Lisbon, and store them into a dataframe, including information regarding qualifications, number of applicants and full job description. Ongoing project.
 
 Note: Though the use case here is specific, the script works with any keywords and location (as in the original Linkedin Jobs tab).
 Note2: Further automated analysis is to be done as a next step.
