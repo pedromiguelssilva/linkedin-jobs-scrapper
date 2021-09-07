@@ -1,11 +1,11 @@
 # Linkedin Jobs Scrapper
 Crawl Linkedin Jobs tab to scrape for all Data Scientist jobs in Lisbon, and store them into a dataframe, including information regarding qualifications, number of applicants and full job description. Ongoing project.
 
-Note: Though the use case here is specific, the script works with any keywords and location (as in the original Linkedin Jobs tab).   
-Note2: Further automated analysis is to be done as a next step.
+Note 1: Though the use case here is specific, the script works with any keywords and location (as in the original Linkedin Jobs tab).   
+Note 2: Further automated analysis is to be done as a next step.
 
 ## Workflow:
-Windows Task Scheduler runs (daily) a batch file, which in turn runs the script "01. DataExtraction.py"
+As Is: A job is scheduled to daily run a batch file, which in turn runs the script "01. DataExtraction.py"
 
 ## Requirements:
 * Python 3.x
