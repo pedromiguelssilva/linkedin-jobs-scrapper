@@ -1,0 +1,6 @@
+README.md
+setup.py
+linkedin_jobs_scrapper.egg-info/PKG-INFO
+linkedin_jobs_scrapper.egg-info/SOURCES.txt
+linkedin_jobs_scrapper.egg-info/dependency_links.txt
+linkedin_jobs_scrapper.egg-info/top_level.txt
